@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html lang="en-GB" class="no-js no-svg">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Boracay Algae Report - Avoid the green sludge season</title>
+<link rel="stylesheet" id="wp-forecast-css" href="http://boracayalgaereport.com/wp-content/plugins/wp-forecast/wp-forecast-default.css" type="text/css" media="screen" />
+
+<!-- All in One SEO Pack 2.11 by Michael Torbert of Semper Fi Web Design[213,270] -->
+<meta name="description"  content="Boracay Algae Report provides a real time Algae Report and Algae Forecast and answers questions such as which month is best to visit Boracay and much more." />
+
+<link rel="canonical" href="http://boracayalgaereport.com/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Boracay Algae Report .com &raquo; Feed" href="http://boracayalgaereport.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Boracay Algae Report .com &raquo; Comments Feed" href="http://boracayalgaereport.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boracayalgaereport.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='essential_addons_elementor-notice-css-css'  href='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/admin/assets/css/eael-notice.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://boracayalgaereport.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://boracayalgaereport.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684' type='text/css' media='screen' />
+<link rel='stylesheet' id='essential_addons_elementor-css-css'  href='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/css/essential-addons-elementor.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='essential_addons_elementor-tooltipster-css'  href='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/css/tooltipster.bundle.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-file-upload-style-css'  href='http://boracayalgaereport.com/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-file-upload-style-safe-css'  href='http://boracayalgaereport.com/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style_safe.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-file-upload-adminbar-style-css'  href='http://boracayalgaereport.com/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_adminbarstyle.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css-css'  href='http://boracayalgaereport.com/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-addon-css-css'  href='http://boracayalgaereport.com/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='astore-google-fonts-css'  href='//fonts.googleapis.com/css?family=Oswald%3Aregular%2C700%7COpen+Sans%3Aregular%2Citalic%2C700%26subset%3Dlatin%2C&#038;ver=5.2.3' type='text/css' media='' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='http://boracayalgaereport.com/wp-content/themes/astore/assets/plugins/simple-line-icons/css/simple-line-icons.css?ver=5.2.3' type='text/css' media='' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://boracayalgaereport.com/wp-content/themes/astore/assets/plugins/bootstrap/css/bootstrap.css?ver=5.2.3' type='text/css' media='' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://boracayalgaereport.com/wp-content/themes/astore/assets/plugins/owl-carousel/css/owl.carousel.css?ver=5.2.3' type='text/css' media='' />
+<link rel='stylesheet' id='animate-css'  href='http://boracayalgaereport.com/wp-content/themes/astore/assets/plugins/animate.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='astore-style-css'  href='http://boracayalgaereport.com/wp-content/themes/astore/style.css?ver=1.0.9' type='text/css' media='all' />
+<style id='astore-style-inline-css' type='text/css'>
+.site-name,
+		  .site-tagline {
+		  color: 333333 !important;
+	  }.site-tagline {
+			  display: none;
+		  }
+h1,h2,h3,h4,h5,h6{font-family:Oswald;}body,button,input,select,textarea{font-family:Open Sans;}html, body, div{font-size:16px;}h1{font-size:36px;}h2{font-size:30px;}h3{font-size:24px;}h4{font-size:16px;}h5{font-size:18px;}h6{font-size:16px;}.astore-section .astore-section-title{font-size:40px;}.astore-section .astore-section-desc{font-size:14px;}.astore-section h4{font-size:20px;}.astore-section, .astore-section p, .astore-section div{font-size:14px;}.astore-section-title {
+		  color: #333;
+	  }.astore-section-desc {
+		  color: #555;
+	  }.astore-feature-caption h4,
+	  .astore-team-vcard h4,
+	  .astore-counter-title,
+	  .astore-section .astore-testimonial-name,
+	  .astore-section .entry-title,
+	  .astore-section .woocommerce ul.products li.product h3 {
+		  color: #bc2944;
+	  }.astore-section-content {
+		  color: #555;
+	  }.astore-section-content a {
+		  color: #a0a0a0;
+	  }.astore-section-content a:hover {
+		  color: #bc2944;
+	  }.astore-feature-item i,
+	  .astore-counter-item i,
+	  .astore-feature-item i {
+		  color: #555;
+	  }header .astore-fixed-header-wrap,header .astore-fixed-header-wrap .astore-header{background-color:rgba(255,255,255,1);}
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-animate-styles-css'  href='http://boracayalgaereport.com/wp-content/plugins/addons-for-elementor/assets/css/animate.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-sliders-styles-css'  href='http://boracayalgaereport.com/wp-content/plugins/addons-for-elementor/assets/css/sliders.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-icomoon-styles-css'  href='http://boracayalgaereport.com/wp-content/plugins/addons-for-elementor/assets/css/icomoon.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-frontend-styles-css'  href='http://boracayalgaereport.com/wp-content/plugins/addons-for-elementor/assets/css/lae-frontend.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lae-widgets-styles-css'  href='http://boracayalgaereport.com/wp-content/plugins/addons-for-elementor/assets/css/lae-widgets.css?ver=2.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://boracayalgaereport.com/wp-content/uploads/elementor/css/global.css?ver=1545410436' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2-css'  href='http://boracayalgaereport.com/wp-content/uploads/elementor/css/post-2.css?ver=1569939939' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/json2.min.js?ver=2015-05-03'></script>
+<![endif]-->
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=5.2.3'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=5.2.3'></script>
+<link rel='https://api.w.org/' href='http://boracayalgaereport.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://boracayalgaereport.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://boracayalgaereport.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.3" />
+<link rel='shortlink' href='http://boracayalgaereport.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://boracayalgaereport.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboracayalgaereport.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://boracayalgaereport.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboracayalgaereport.com%2F&#038;format=xml" />
+        <script type="text/javascript">
+            (function () {
+                window.lae_fs = {can_use_premium_code: false};
+            })();
+        </script>
+        
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86912345-3"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-86912345-3');
+			
+		</script>
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-2353114884001745",
+          enable_page_level_ads: true
+     });
+</script><link rel="icon" href="http://boracayalgaereport.com/wp-content/uploads/2018/12/cropped-IMG_20180420_140140166-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://boracayalgaereport.com/wp-content/uploads/2018/12/cropped-IMG_20180420_140140166-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://boracayalgaereport.com/wp-content/uploads/2018/12/cropped-IMG_20180420_140140166-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://boracayalgaereport.com/wp-content/uploads/2018/12/cropped-IMG_20180420_140140166-270x270.jpg" />
+</head>
+<body class="home page-template-default page page-id-2 woocommerce light elementor-default elementor-page elementor-page-2">
+
+  <div class="wrapper">
+        <!--Header-->
+        <img class="header-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/cropped-IMG_20180410_094620658-1.jpg" alt="" />  <div class="cactus-header cactus-classic-header right">
+  
+            <div class="cactus-top-bar cactus-style-solid-bg">
+           
+                <div class="cactus-f-microwidgets topbar_left_selective">
+                                                 </div>
+                <div class="cactus-f-microwidgets ">
+                <div class="cactus-microwidget cactus-microicons topbar_icons_selective">
+                                                     </div>
+                <div class="cactus-microwidget cactus-micronav cactus-micronav-list topbar_right_selective">
+                                             </div>
+                </div>
+            </div>
+                <div class="cactus-main-header">
+            
+                <div class="cactus-logo">
+                                    
+
+  <a href="http://boracayalgaereport.com/">
+  <h2 class="site-name">
+    Boracay Algae Report .com  </h2>
+  </a>
+   <span class="site-tagline">Avoid the Algae </span>
+
+
+                   
+                    <div class="cactus-f-microwidgets">
+                        <div class="cactus-microwidget cactus-search-full">
+                            <form role="search" class="searchform searchform-cats" method="get" id="searchform" action="http://boracayalgaereport.com/">
+                                <div>
+								
+                                    <div class="select_products-wrap">
+                                                                    </div>
+                                    <label class="screen-reader-text">:</label>
+                                    <input type="text" class="search-field" placeholder="Search ..." value="" name="s">
+                                    <input type="hidden" value="product" name="post_type" id="post_type" />
+                                    
+                                    <input type="submit" class="search-submit" value="Search">
+                                </div>                                    
+                            </form>
+                        </div>
+                    </div>
+                                        <div class="cactus-f-microwidgets">
+                                        </div>
+                    
+                </div>
+                
+                <nav class="cactus-navigation">
+                      
+              <ul id="top-menu" class="cactus-main-nav"><li id="menu-item-153" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-153"><a href="http://boracayalgaereport.com" aria-current="page" data-ps2id-api="true"><span>Home</span></a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="http://boracayalgaereport.com/boracay-beach-guide/" data-ps2id-api="true"><span>Boracay Beach Guide</span></a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://boracayalgaereport.com/image-gallery/" data-ps2id-api="true"><span>Algae Gallery</span></a></li>
+<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="http://boracayalgaereport.com/water-quality-report/" data-ps2id-api="true"><span>Water Quality</span></a></li>
+<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-238"><a href="http://boracayalgaereport.com/forums/forum/boracay-forum/" data-ps2id-api="true"><span>Boracay Forum</span></a></li>
+</ul>                </nav>                
+            </div>
+            <div class="cactus-mobile-main-header">
+                <div class="cactus-logo">
+                                        
+
+  <a href="http://boracayalgaereport.com/">
+  <h2 class="site-name">
+    Boracay Algae Report .com  </h2>
+  </a>
+   <span class="site-tagline">Avoid the Algae </span>
+
+
+                </div>
+               
+                <div class="cactus-menu-toggle">
+                    <div class="cactus-toggle-icon">
+                        <span class="cactus-line"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="cactus-mobile-drawer-header" style="display: none;">
+            <ul id="top-menu" class="cactus-mobile-main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-153"><a href="http://boracayalgaereport.com" aria-current="page" data-ps2id-api="true"><span>Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="http://boracayalgaereport.com/boracay-beach-guide/" data-ps2id-api="true"><span>Boracay Beach Guide</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://boracayalgaereport.com/image-gallery/" data-ps2id-api="true"><span>Algae Gallery</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="http://boracayalgaereport.com/water-quality-report/" data-ps2id-api="true"><span>Water Quality</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-238"><a href="http://boracayalgaereport.com/forums/forum/boracay-forum/" data-ps2id-api="true"><span>Boracay Forum</span></a></li>
+</ul>            </div>
+        </div>
+        
+  <div class="cactus-fixed-header-wrap" style="display: none;">
+            <div class="cactus-header cactus-inline-header right shadow">
+                <div class="cactus-main-header">
+                    <div class="cactus-logo">
+                        
+  <a href="http://boracayalgaereport.com/">
+  <h2 class="site-name">
+    Boracay Algae Report .com  </h2>
+  </a>
+
+
+                    </div>
+                     <ul id="top-menu" class="cactus-main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-153"><a href="http://boracayalgaereport.com" aria-current="page" data-ps2id-api="true"><span>Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="http://boracayalgaereport.com/boracay-beach-guide/" data-ps2id-api="true"><span>Boracay Beach Guide</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://boracayalgaereport.com/image-gallery/" data-ps2id-api="true"><span>Algae Gallery</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="http://boracayalgaereport.com/water-quality-report/" data-ps2id-api="true"><span>Water Quality</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-238"><a href="http://boracayalgaereport.com/forums/forum/boracay-forum/" data-ps2id-api="true"><span>Boracay Forum</span></a></li>
+</ul>                   
+                </div>
+                <div class="cactus-mobile-main-header">
+                    
+                </div>
+            </div>
+        </div>
+<div class="page-wrap">
+  <div class="container">
+    <div class="page-inner row right-aside">
+      <div class="col-main">
+        <section class="post-main" role="main" id="content">
+          <article class="post-entry text-left">
+                        <div id="page-2">
+  <article class="entry-box">
+    <div class="entry-main">
+      <div class="entry-summary">
+			<div class="elementor elementor-2">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="03a9a1c" class="elementor-element elementor-element-03a9a1c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="c4354ef" class="elementor-element elementor-element-c4354ef elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3317512" class="elementor-element elementor-element-3317512 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Going to Boracay ? Check out our latest ALGAE REPORT below....</h2>		</div>
+				</div>
+				<div data-id="142e8b9" class="elementor-element elementor-element-142e8b9 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="632" height="253" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/boracay-e1545932248286.jpg" class="attachment-large size-large" alt="" srcset="http://boracayalgaereport.com/wp-content/uploads/2018/12/boracay-e1545932248286.jpg 632w, http://boracayalgaereport.com/wp-content/uploads/2018/12/boracay-e1545932248286-300x120.jpg 300w" sizes="(max-width: 632px) 100vw, 632px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="73ed664" class="elementor-element elementor-element-73ed664 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="c961400" class="elementor-element elementor-element-c961400 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="5c5f216" class="elementor-element elementor-element-5c5f216 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Welcome to the Boracay ALGAE REPORT  </h2>		</div>
+				</div>
+				<div data-id="fada052" class="elementor-element elementor-element-fada052 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>With crystal clear waters, white sand and amazing people, Boracay deserves its reputation as one of the most beautiful islands in the world.  Unfortunately there is always a downside and for Boracay it is the seasonal algae.  This <b>green sludge </b>can range from insignificant specs to a thick green sludge which covers the beach.  To enjoy the best of Boracay, we recommend you check out the <b>latest Algae Report. </b></p><p>We report the level of algae according to our own &#8216;Boracay -Algae<span style="font-size: 16px;"> Scale&#8217; which ranges from PERFECT to VERY BAD.  </span></p><h3>Scroll down for today&#8217;s ALGAE REPORT&#8230;</h3></div>
+				</div>
+				</div>
+				<div data-id="50fac9a" class="elementor-element elementor-element-50fac9a elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="edda83b" class="elementor-element elementor-element-edda83b elementor-widget elementor-widget-menu-anchor" data-element_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="#report" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<section data-id="e4dcaaf" class="elementor-element elementor-element-e4dcaaf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="f7cf1e3" class="elementor-element elementor-element-f7cf1e3 elementor-column elementor-col-33 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="954e3d4" class="elementor-element elementor-element-954e3d4 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Today's <b>Algae</b> Report </h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="fa84149" class="elementor-element elementor-element-fa84149 elementor-column elementor-col-33 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="6530815" class="elementor-element elementor-element-6530815 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Report Date : </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="cd3f120" class="elementor-element elementor-element-cd3f120 elementor-column elementor-col-33 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="05ceaf6" class="elementor-element elementor-element-05ceaf6 elementor-widget elementor-widget-shortcode" data-element_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">10th October 2019</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div data-id="0ffbdc5" class="elementor-element elementor-element-0ffbdc5 elementor-widget elementor-widget-progress" data-element_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">Boracay Algae Scale - 0 - 100% </span>
+		
+		<div class="elementor-progress-wrapper progress-info" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-valuetext="Current  Algae Levels ">
+			<div class="elementor-progress-bar" data-max="0">
+				<span class="elementor-progress-text">Current  Algae Levels </span>
+									<span class="elementor-progress-percentage">0%</span>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="03772ae" class="elementor-element elementor-element-03772ae elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="e9e3c24" class="elementor-element elementor-element-e9e3c24 elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="e63c5d7" class="elementor-element elementor-element-e63c5d7 elementor-widget elementor-widget-accordion" data-element_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-2411" class="elementor-tab-title" tabindex="2411" data-tab="1" role="tab" aria-controls="elementor-tab-content-2411">
+												<a href="">0 - 20 % -  PERFECT</a>
+					</div>
+					<div id="elementor-tab-content-2411" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2411"></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="8fed4e0" class="elementor-element elementor-element-8fed4e0 elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="dd031c9" class="elementor-element elementor-element-dd031c9 elementor-widget elementor-widget-accordion" data-element_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-2311" class="elementor-tab-title" tabindex="2311" data-tab="1" role="tab" aria-controls="elementor-tab-content-2311">
+												<a href="">20 - 40 % - OK</a>
+					</div>
+					<div id="elementor-tab-content-2311" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2311"></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="d4a54f6" class="elementor-element elementor-element-d4a54f6 elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3ea6c41" class="elementor-element elementor-element-3ea6c41 elementor-widget elementor-widget-accordion" data-element_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-6561" class="elementor-tab-title" tabindex="6561" data-tab="1" role="tab" aria-controls="elementor-tab-content-6561">
+												<a href="">40 - 60%  ACCEPTABLE</a>
+					</div>
+					<div id="elementor-tab-content-6561" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-6561"></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="6110a67" class="elementor-element elementor-element-6110a67 elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="a71fc21" class="elementor-element elementor-element-a71fc21 elementor-widget elementor-widget-accordion" data-element_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1751" class="elementor-tab-title" tabindex="1751" data-tab="1" role="tab" aria-controls="elementor-tab-content-1751">
+												<a href="">60 - 80 % - BAD</a>
+					</div>
+					<div id="elementor-tab-content-1751" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1751"></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="52351fc" class="elementor-element elementor-element-52351fc elementor-column elementor-col-20 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="80b730b" class="elementor-element elementor-element-80b730b elementor-widget elementor-widget-accordion" data-element_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1341" class="elementor-tab-title" tabindex="1341" data-tab="1" role="tab" aria-controls="elementor-tab-content-1341">
+												<a href="">80 - 100% VERY BAD </a>
+					</div>
+					<div id="elementor-tab-content-1341" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1341"></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="89fd432" class="elementor-element elementor-element-89fd432 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="79b7d09" class="elementor-element elementor-element-79b7d09 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="fa17b90" class="elementor-element elementor-element-fa17b90 elementor-widget elementor-widget-image-carousel" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-element_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper elementor-slick-slider" dir="ltr">
+			<div class="elementor-image-carousel slick-arrows-inside slick-dots-outside">
+				<div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_095844022-1-150x150.jpg" alt="PERFECT" /><figcaption class="elementor-image-carousel-caption">PERFECT</figcaption></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_095426777-150x150.jpg" alt="PERFECT" /><figcaption class="elementor-image-carousel-caption">PERFECT</figcaption></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_095849487-150x150.jpg" alt="OK" /><figcaption class="elementor-image-carousel-caption">OK</figcaption></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_095852786-150x150.jpg" alt="OK" /><figcaption class="elementor-image-carousel-caption">OK</figcaption></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140508659-150x150.jpg" alt="BAD" /><figcaption class="elementor-image-carousel-caption">BAD</figcaption></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_135742607-150x150.jpg" alt="BAD" /><figcaption class="elementor-image-carousel-caption">BAD</figcaption></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140140166-150x150.jpg" alt="VERY BAD" /><figcaption class="elementor-image-carousel-caption">VERY BAD</figcaption></figure></div>			</div>
+		</div>
+				</div>
+				</div>
+				<div data-id="9ac03de" class="elementor-element elementor-element-9ac03de elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="9dc454b" class="elementor-element elementor-element-9dc454b elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Join the chat in our BORACAY FORUM </h2>		</div>
+				</div>
+				<div data-id="56792a6" class="elementor-element elementor-element-56792a6 elementor-widget elementor-widget-wp-widget-bbp_topics_widget" data-element_type="wp-widget-bbp_topics_widget.default">
+				<div class="elementor-widget-container">
+			<h5>Boracay Forum &#8211; Recent Topics </h5>
+		<ul>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://boracayalgaereport.com/forums/topic/slimming-world-ensures-software-roll-3/">Slimming World Ensures Software Roll</a>
+
+					
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://boracayalgaereport.com/forums/topic/hot-zip-leaked-cursive-get-fixed-download-full-2019/">Hot Zip Leaked Cursive &#8211; Get Fixed Download Full 2019</a>
+
+					
+					
+				</li>
+
+			
+				<li>
+					<a class="bbp-forum-title" href="http://boracayalgaereport.com/forums/topic/watch-rupauls-drag-race-uk-season-1-episode-2-online-full-series-2/">Watch RuPaul\&#039;s Drag Race UK – Season 1 Episode 2 Online full series</a>
+
+					
+					
+				</li>
+
+			
+		</ul>
+
+				</div>
+				</div>
+				<div data-id="e4450cc" class="elementor-element elementor-element-e4450cc elementor-widget elementor-widget-html" data-element_type="html.default">
+				<div class="elementor-widget-container">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BAR Middle -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2353114884001745"
+     data-ad-slot="4606864587"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+				</div>
+				<div data-id="555deb9" class="elementor-element elementor-element-555deb9 elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="f6982f3" class="elementor-element elementor-element-f6982f3 elementor-widget elementor-widget-lae-heading" data-element_type="lae-heading.default">
+				<div class="elementor-widget-container">
+			<div class="lae-heading lae-style1 lae-alignleft " ><h3 class="lae-title">Countdown to PEAK Boracay  Algae Season ....</h3></div><!-- .lae-heading -->		</div>
+				</div>
+				<div data-id="0aa435f" class="elementor-element elementor-element-0aa435f elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>We prefer to avoid the alage when we  travel to Boracay.  See how many days are left until peak season with our helpful PEAK Season Countdown. </p></div>
+				</div>
+				</div>
+				<div data-id="0c69530" class="elementor-element elementor-element-0c69530 elementor-widget elementor-widget-eael-countdown" data-element_type="eael-countdown.default">
+				<div class="elementor-widget-container">
+			
+	<div class="eael-countdown-wrapper" data-countdown-id="0c69530" data-expire-type="text" data-expiry-text="&lt;h1&gt;Peak Algae Season is here&lt;/h1&gt;" data-expiry-title="Peak algae Season is here ">
+		<div class="eael-countdown-container eael-countdown-label-block ">
+			<ul id="eael-countdown-0c69530" class="eael-countdown-items style-1" data-date="Apr 22 2020 0:00:00">
+			    <li class="eael-countdown-item"><div class="eael-countdown-days"><span data-days class="eael-countdown-digits">00</span><span class="eael-countdown-label">Days</span></div></li>			    <li class="eael-countdown-item"><div class="eael-countdown-hours"><span data-hours class="eael-countdown-digits">00</span><span class="eael-countdown-label">Hours</span></div></li>			   <li class="eael-countdown-item"><div class="eael-countdown-minutes"><span data-minutes class="eael-countdown-digits">00</span><span class="eael-countdown-label">Minutes</span></div></li>			   			</ul>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	
+			</div>
+				</div>
+				<div data-id="b0ca332" class="elementor-element elementor-element-b0ca332 elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<section data-id="052bd4a" class="elementor-element elementor-element-052bd4a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="a6c09b2" class="elementor-element elementor-element-a6c09b2 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="f7ca84c" class="elementor-element elementor-element-f7ca84c elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Have a question about Algae ?
+Check out our Algae FAQ's </h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="2563810" class="elementor-element elementor-element-2563810 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="e8ca6d2" class="elementor-element elementor-element-e8ca6d2 elementor-widget elementor-widget-image-carousel" data-settings="{&quot;slides_to_show&quot;:&quot;2&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-element_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper elementor-slick-slider" dir="ltr">
+			<div class="elementor-image-carousel slick-arrows-inside slick-dots-outside">
+				<div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_095844022-1-150x150.jpg" alt="PERFECT" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140508659-150x150.jpg" alt="BAD" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140140166-150x150.jpg" alt="VERY BAD" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_135742607-150x150.jpg" alt="BAD" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_095849487-150x150.jpg" alt="OK" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_095852786-150x150.jpg" alt="OK" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_094530810-150x150.jpg" alt="IMG_20180410_094530810" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180410_094620658-150x150.jpg" alt="IMG_20180410_094620658" /></figure></div>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div data-id="f003d58" class="elementor-element elementor-element-f003d58 elementor-widget elementor-widget-toggle" data-element_type="toggle.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toggle" role="tablist">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2511" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-2511">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="">When is Algae Season in Boracay </a>
+					</div>
+					<div id="elementor-tab-content-2511" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2511"><p>Algae can appear from as early as January and extend as far as June.  The worst months are typically March and April. </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2512" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-2512">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="">What causes the Algae ?</a>
+					</div>
+					<div id="elementor-tab-content-2512" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-2512"><p>Algal blooms are indication of pollution, increasing population as well as the lack of waste treatment facilities in Boracay.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2513" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-2513">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="">Does the Algae affect all of Boracay ?</a>
+					</div>
+					<div id="elementor-tab-content-2513" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-2513"><p>No. The algae typically just affects white beach,..  Bullabog Beach and </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2514" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-2514">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="">Is the Algae Dangerous </a>
+					</div>
+					<div id="elementor-tab-content-2514" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-2514"><p>While some algal blooms are harmless to humans, others can contain <a href="https://weather.com/science/nature/news/florida-algae-crisis" target="_blank" rel="noopener">dangerous cyanobacteria</a>, which can cause nausea, vomiting and, in severe cases, acute liver failure in humans.It is unclear if the algal bloom in Boracay contains toxic cyanobacteria.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2515" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-2515">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												<a href="">Which month is worst for Alagae ?</a>
+					</div>
+					<div id="elementor-tab-content-2515" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-2515"><p>Algae Season typically starts in February and lasts until may.  the worst months are late March and April </p></div>
+				</div>
+					</div>
+				</div>
+				</div>
+				<div data-id="ca58c62" class="elementor-element elementor-element-ca58c62 elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="fd38cf1" class="elementor-element elementor-element-fd38cf1 elementor-widget elementor-widget-eael-cta-box" data-element_type="eael-cta-box.default">
+				<div class="elementor-widget-container">
+					<div class="eael-call-to-action bg-img bg-fixed cta-left">
+	    <h2 class="title">Check out our Boracay BEACH Guide </h2>
+	    	    <p><p>Want to know which part of White Beach is bestor looking to explore the other beaches of Boracay, Check out our BEACH Guide </p></p>
+			    <a href="http://boracayalgaereport.com/boracay-beach-guide/"   class="cta-button ">Beach Guide </a>
+	</div>
+						</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="75e8be2" class="elementor-element elementor-element-75e8be2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="22f436d" class="elementor-element elementor-element-22f436d elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="75ebfd7" class="elementor-element elementor-element-75ebfd7 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Boracay Alagae Season GUIDE </h2>		</div>
+				</div>
+				<section data-id="17aa628" class="elementor-element elementor-element-17aa628 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="0fb71e2" class="elementor-element elementor-element-0fb71e2 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="d9b3eff" class="elementor-element elementor-element-d9b3eff elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>Boracay Alage Season starts early in the year, typically around February.  As the weather warms up through Feburary the algae in Boracay peaks during the hotter months of March and April before reducing. </strong></p><p>Whilst the levele of algae increases with temperature, there are a number of other factors which affect the levels of alagae.  these include the strenght of the tide and winds which can either wash the algae oit to sea or heap it up on the beach depending upon conditions. </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="2d53646" class="elementor-element elementor-element-2d53646 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="66c4e48" class="elementor-element elementor-element-66c4e48 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="600" height="371" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/Boracay-Seasonal-Algae-2.png" class="attachment-large size-large" alt="" srcset="http://boracayalgaereport.com/wp-content/uploads/2018/12/Boracay-Seasonal-Algae-2.png 600w, http://boracayalgaereport.com/wp-content/uploads/2018/12/Boracay-Seasonal-Algae-2-300x186.png 300w" sizes="(max-width: 600px) 100vw, 600px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="771db88" class="elementor-element elementor-element-771db88 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="546d1d9" class="elementor-element elementor-element-546d1d9 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="063396e" class="elementor-element elementor-element-063396e elementor-widget elementor-widget-html" data-element_type="html.default">
+				<div class="elementor-widget-container">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BAR Middle 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2353114884001745"
+     data-ad-slot="6385359428"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+				</div>
+				<div data-id="f532faf" class="elementor-element elementor-element-f532faf elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="57510d6" class="elementor-element elementor-element-57510d6 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="9c422c5" class="elementor-element elementor-element-9c422c5 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="36661ff" class="elementor-element elementor-element-36661ff elementor-widget elementor-widget-wp-widget-wp-forecast" data-element_type="wp-widget-wp-forecast.default">
+				<div class="elementor-widget-container">
+			<h5>Boracay Weather - Current Conditions </h5><div id="wp-forecastA" class="wp-forecast">
+<div class="wp-forecast-curr">
+<div class="wp-forecast-curr-head"><div>Boracay </div>
+<div>October 10, 2019, 8:48 pm</div>
+</div>
+<div class="wp-forecast-curr-block"><div class='wp-forecast-curr-left'><img class='wp-forecast-curr-left' src='http://boracayalgaereport.com/wp-content/plugins/wp-forecast/icons/38.gif' alt='Mostly cloudy' width='64' height='40' />
+<br /></div><div class='wp-forecast-curr-right'><div>Mostly cloudy<br/></div></div>
+</div>
+<div class="wp-forecast-curr-details"><div>wind speed: 1 m/s NNE</div>
+<div>UV-Index: 0</div>
+<div>sunrise: 5:42 am</div>
+<div>sunset: 5:37 pm</div>
+</div>
+</div>
+<div class="wp-forecast-fc">
+</div>
+</div>
+<div style="clear:inherit;">&nbsp;</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="b1cb2c3" class="elementor-element elementor-element-b1cb2c3 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="517709a" class="elementor-element elementor-element-517709a elementor-widget elementor-widget-google_maps" data-element_type="google_maps.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-custom-embed"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=White%20beach%2C%20boracay&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near" aria-label="White beach, boracay"></iframe></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="4c03061" class="elementor-element elementor-element-4c03061 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="a0ebd7a" class="elementor-element elementor-element-a0ebd7a elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="929fbfc" class="elementor-element elementor-element-929fbfc elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="1dd586b" class="elementor-element elementor-element-1dd586b elementor-widget elementor-widget-lae-heading" data-element_type="lae-heading.default">
+				<div class="elementor-widget-container">
+			<div class="lae-heading lae-style1 lae-alignleft " ><h3 class="lae-title">The Boracay ALGAE Gallery </h3><p class="lae-text">See more and SHARE yourpics of the BORACAY Algae </p></div><!-- .lae-heading -->		</div>
+				</div>
+				<div data-id="34b7fab" class="elementor-element elementor-element-34b7fab elementor-widget elementor-widget-image-carousel" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-element_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper elementor-slick-slider" dir="ltr">
+			<div class="elementor-image-carousel slick-arrows-inside slick-dots-outside">
+				<div class="slick-slide"><figure class="slick-slide-inner"><a href="http://boracayalgaereport.com/image-gallery/" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="34b7fab" data-elementor-lightbox-index="0"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140508659-150x150.jpg" alt="BAD" /></a></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><a href="http://boracayalgaereport.com/image-gallery/" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="34b7fab" data-elementor-lightbox-index="1"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140349126-150x150.jpg" alt="IMG_20180420_140349126" /></a></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><a href="http://boracayalgaereport.com/image-gallery/" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="34b7fab" data-elementor-lightbox-index="2"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140316514-150x150.jpg" alt="IMG_20180420_140316514" /></a></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><a href="http://boracayalgaereport.com/image-gallery/" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="34b7fab" data-elementor-lightbox-index="3"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_1401401661-150x150.jpg" alt="IMG_20180420_140140166(1)" /></a></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><a href="http://boracayalgaereport.com/image-gallery/" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="34b7fab" data-elementor-lightbox-index="4"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_140121727-150x150.jpg" alt="BAD" /></a></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><a href="http://boracayalgaereport.com/image-gallery/" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="34b7fab" data-elementor-lightbox-index="5"><img class="slick-slide-image" src="http://boracayalgaereport.com/wp-content/uploads/2018/12/IMG_20180420_1401110741-150x150.jpg" alt="IMG_20180420_140111074(1)" /></a></figure></div>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="4646848" class="elementor-element elementor-element-4646848 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="473d504" class="elementor-element elementor-element-473d504 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="f93393f" class="elementor-element elementor-element-f93393f elementor-widget elementor-widget-html" data-element_type="html.default">
+				<div class="elementor-widget-container">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BAR Middle 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2353114884001745"
+     data-ad-slot="9780258078"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		      </div>
+    </div>
+  </article>
+</div>
+                    
+          </article>
+                  </section>
+      </div>
+      	<div class="col-aside-right">
+          <aside class="blog-side left text-left">
+          <div class="widget-area">
+             <section id="custom_html-7" class="widget_text widget-box widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BAR - Side ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2353114884001745"
+     data-ad-slot="6278388535"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></section><section id="custom_html-9" class="widget_text widget-box widget_custom_html"><h3 class="widget-title">Advert</h3><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BAR Side 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2353114884001745"
+     data-ad-slot="1068032687"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></section><section id="custom_html-11" class="widget_text widget-box widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BAR Side 3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2353114884001745"
+     data-ad-slot="6299026027"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></section>          </div>
+        </aside>
+              </div>
+    </div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-widget-area">
+    </div>
+     <div class="footer-info-area text-center">
+                    <ul class="footer-sns">
+                      						<li><a href="" title="" target="_blank"><i class="fa fa-twitter"></i></a></li>
+												<li><a href="" title="" target="_blank"><i class="fa fa-facebook"></i></a></li>
+												<li><a href="" title="" target="_blank"><i class="fa fa-instagram"></i></a></li>
+												<li><a href="" title="" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+												<li><a href="" title="" target="_blank"><i class="fa fa-youtube"></i></a></li>
+						                    </ul>
+                    <div class="site-info">
+                       <span class="copyright_selective"><p>Boracay algae report </p></span> 
+	Designed by <a href="https://velathemes.com/astore-theme/" target="_blank">VelaThemes</a>.                    </div>
+                </div>  </div>
+</footer>
+</div>
+<div class="back-to-top"></div><script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.14-6684'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/eael-scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/fancy-text.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/countdown.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/masonry.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var eaelPostGrid = {"ajaxurl":"http:\/\/boracayalgaereport.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/load-more.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/social-feeds/codebird.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/social-feeds/doT.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/social-feeds/moment.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/social-feeds/jquery.socialfeed.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/mixitup.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/jquery.magnific-popup.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/tooltipster.bundle.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/js/progress-bar.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[href*=#]:not([href=#])","autoSelectorMenuLinks":"true","scrollSpeed":800,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","autoCorrectScroll":"false","layout":"vertical","offset":0,"highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"scrollToHashUseElementData":"true","scrollToHashRemoveUrlHash":"false","disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","normalizeAnchorPointTargets":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.6.4'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sta_settings = {"distance":"50","speed":"5000","exceptions":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/scroll-to-anchor/includes/../js/scroll-to-anchor.min.js?ver=5.2.3'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/themes/astore/assets/plugins/bootstrap/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/themes/astore/assets/plugins/respond.min.js'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/themes/astore/assets/plugins/owl-carousel/js/owl.carousel.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var astore_params = {"ajaxurl":"http:\/\/boracayalgaereport.com\/wp-admin\/admin-ajax.php","themeurl":"http:\/\/boracayalgaereport.com\/wp-content\/themes\/astore","page_preloader":"0","preloader_background":"rgba(153,153,153,0.8)","preloader_image":"http:\/\/boracayalgaereport.com\/wp-content\/themes\/astore\/assets\/images\/preloader.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/themes/astore/assets/js/astore.js'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lae_settings = {"custom_css":""};
+var lae_ajax_object = {"ajax_url":"http:\/\/boracayalgaereport.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/addons-for-elementor/assets/js/lae-frontend.min.js?ver=2.5.2'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/addons-for-elementor/assets/js/jquery.waypoints.min.js?ver=2.5.2'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.4.1'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.3.8","urls":{"assets":"http:\/\/boracayalgaereport.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":2,"title":"Home","excerpt":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://boracayalgaereport.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.3.8'></script>
+</body>
+</html>
